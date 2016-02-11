@@ -11,9 +11,9 @@ A video of the program running from ~8550 iterations - [link](https://vid.me/dfc
 
 > Download and install [Processing 3](https://processing.org/download/?processing).
 > 
-> git clone https://github.com/umahmood/langtons-ant
+> git clone https://github.com/umahmood/langtons-ant langtonsant
 >
-> From the processing editor open langtons-ant.pde
+> From the Processing editor open langtonsant.pde
 
 # License
 
