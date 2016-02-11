@@ -108,11 +108,7 @@ void iteration() {
        Then move one space forward (unsetting the state of the cell as it leaves)
    
        If the square it is currently sitting on is unset, it turns left and moves forward one space (setting the state of the cell as it leaves)
-    */  
-    
-    int bx = (width / cellSize);
-    int by = (height / cellSize);
-     
+    */   
     if (cells[antx][anty] == 1) {
         cells[antx][anty] = 0; // unset cell state
         turnRightAndMoveForward();
