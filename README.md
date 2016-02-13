@@ -5,7 +5,7 @@ built after reading about it on Wikipedia [here](https://en.wikipedia.org/wiki/L
 
 ![screenshot](https://github.com/umahmood/langtons-ant/blob/master/screenshot.png)
 
-A video of the program running from ~8550 iterations - [link](https://vid.me/dfc0).
+A video of the program running from ~8550 iterations can be seen [here](https://vimeo.com/155248390).
 
 # Installation
 
